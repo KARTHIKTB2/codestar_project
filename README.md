@@ -6,7 +6,7 @@ AWS Lambda and Amazon API Gateway.
 
 What's Here
 -----------
-ok build
+ok build now
 This sample includes:
 
 * README.md - this file
